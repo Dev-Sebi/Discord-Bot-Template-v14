@@ -1,0 +1,24 @@
+# discord-bot-template-v13
+A Simple Discord.js Bot Template for V14.x
+
+## How to use?
+
+- Download the files and open with your Editor
+- Open the console and do the following:
+
+1. ```npm i```
+2. Insert your bots token in the ``.env`` file
+3. run ```npm run dev```
+
+The bot should start and you can start developing!
+This template uses [nodemon](https://www.npmjs.com/package/nodemon), so the bot will automatically restart after a change was made.
+
+## Notes:
+
+- This Bot does Only Support Application Commands -> Slash Commands, Context Menu Interactions,..
+- Go to ``handler/index.js`` line **30 - 32** to activate and push the commands to the public!
+- This template is based on a Node.js Application using [Discord.js](https://discord.js.org/) V14.x
+
+##
+
+Made by Sebi
