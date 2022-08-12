@@ -1,4 +1,4 @@
-# discord-bot-template-v13
+# Discord-Bot-Template-v14
 A Simple Discord.js Bot Template for V14.x
 
 ## How to use?
